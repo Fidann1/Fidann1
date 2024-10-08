@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fidan
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning C
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning microservices.
 .
 
 <!---
